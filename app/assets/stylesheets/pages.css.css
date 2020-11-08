@@ -1,0 +1,28 @@
+.container {
+  width: 500px;
+}
+
+p {
+  margin: 3px 0;
+}
+
+.header h1 {
+  text-align: center;
+}
+
+.home h2 {
+  color: #fff;
+  text-align: right;
+}
+
+.main h2 {
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+}
+
+.jumbotron {
+  padding: 30px 15px;
+  margin-bottom: 30px;
+  background-color: #eee;
+}
